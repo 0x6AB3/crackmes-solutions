@@ -1,6 +1,6 @@
 # Crackme Writeup: Yekong's Vending Machine
 
-**Challenge Source:** (Please provide the correct link to the challenge, as `sudo pacman -S usbutils` is a command, not a URL.)
+**Challenge Source:** https://crackmes.one/crackme/6454d06c33c5d43938912e8a
 
 ---
 
