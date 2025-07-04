@@ -1,0 +1,5 @@
+Available at: https://crackmes.one/crackme/6454d06c33c5d43938912e8a
+Archive password: crackmes.one
+download the zip, extract using 7zip and archive password
+this guide focuses on a linux approach using wine
+izz shows multiple strings that are seen in runtime, allowing us to set breakpoints
