@@ -154,8 +154,7 @@ Let's examine the code starting from `0x563a4791c2e8`:
     If all `strncmp` calls return 0 (meaning the segments match), the program proceeds to print the flag:
     ```assembly
     ...
-    lea rdi, str.__HTB_s_n  ; 0x563a4791d02b ; "> HTB{%s}
-"
+    lea rdi, str.__HTB_s_n  ; 0x563a4791d02b ; "> HTB{%s}"
     mov rsi, rax            ; Your input password
     call sym.imp.printf
     ...
